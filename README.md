@@ -1,4 +1,4 @@
-# Hi! My name is Om Varma, I've created this MERN Stack E-Commerce Project
+# Hi! My name is Om Varma, I've created this SPOTIFY-ALBUM-SEARCH
 
 # React + Vite
 
