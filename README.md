@@ -22,6 +22,7 @@ Make Sure to Create a  .env file in root directory and add appropriate variables
 **Essential Variables**
 
 VITE_CLIENT_ID= your-client-id
+
 VITE_CLIENT_SECRET= your-client-secret
 
 _fill each filed with your info respectively_
